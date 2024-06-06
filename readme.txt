@@ -1,0 +1,1 @@
+Training project number 1 in Git.
